@@ -1,0 +1,185 @@
+
+[
+    {
+        "id": "about",
+        "title": "About Us",
+        "tag" : "",
+        "image": "",
+        "body": "DVWP Design is a multidisciplinary creative team, working on a wide range of design. Creating solutions in all the areas, from architecture and interior, to product design<br><br>Our line is not defined inside a specific concept, but explores the design from the limit of the experimentation, seeking to solve the formal- functional relations of the objects and spaces.<br><br>We have all the own means for the project development, from concept, design, production, execution and installation, to its logistics. All that under sustainable concepts, as the use of the green energies, ecological materials, and the integration of new technologies."
+    },
+    {
+        "id": "services",
+        "title": "Our Services",
+        "tag" : "",
+        "image": "",
+        "body": "<p class='mb-0'>Design & 3D Visual for</p><ul><li>+ Architecture</li><li>+ Exhibition</li><li>+ Retail</li><li>+ Interior</li><li>+ Events</li><li>+ Product</li></ul>"
+    },
+    {
+        "id": "contact",
+        "title": "Contact Us",
+        "tag" : "",
+        "image": "",
+        "body": "South Jakarta, Indonesia<br><br>PH: +62 81 223 840 027<br>Email : <a href='mailto:hello@dvwp.design'>hello@dvwp.design</a>"
+    },
+    {
+        "id": "cost",
+        "title": "",
+        "tag" : "",
+        "image": "<img src='asset/images/pricelist.png' alt='img'>",
+        "body": ""
+    },
+    {
+        "id": "works",
+        "title": "",
+        "tag" : "",
+        "image": "<img src='asset/images/hiw.png' alt='img'>",
+        "body": ""
+    },
+    {
+        "id": "testimonials",
+        "title": "",
+        "tag" : "",
+        "image": "<img src='asset/images/testimonials.png' alt='img'>",
+        "body": ""
+    },
+    {
+        "id": "img-1",
+        "title": "",
+        "tag" : "interior",
+        "image": "<img src='asset/images/galleries/img-1.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-2",
+        "title": "",
+        "tag" : "architecture",
+        "image": "<img src='asset/images/galleries/img-2.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-3",
+        "title": "",
+        "tag" : "landscape",
+        "image": "<img src='asset/images/galleries/img-3.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-4",
+        "title": "",
+        "tag" : "masterplan",
+        "image": "<img src='asset/images/galleries/img-4.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-5",
+        "title": "",
+        "tag" : "interior",
+        "image": "<img src='asset/images/galleries/img-5.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-6",
+        "title": "",
+        "tag" : "architecture",
+        "image": "<img src='asset/images/galleries/img-6.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-7",
+        "title": "",
+        "tag" : "landscape",
+        "image": "<img src='asset/images/galleries/img-7.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-8",
+        "title": "",
+        "tag" : "masterplan",
+        "image": "<img src='asset/images/galleries/img-8.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-9",
+        "title": "",
+        "tag" : "interior",
+        "image": "<img src='asset/images/galleries/img-9.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-10",
+        "title": "",
+        "tag" : "architecture",
+        "image": "<img src='asset/images/galleries/img-10.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-11",
+        "title": "",
+        "tag" : "landscape",
+        "image": "<img src='asset/images/galleries/img-11.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-12",
+        "title": "",
+        "tag" : "masterplan",
+        "image": "<img src='asset/images/galleries/img-12.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-13",
+        "title": "",
+        "tag" : "interior",
+        "image": "<img src='asset/images/galleries/img-13.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-14",
+        "title": "",
+        "tag" : "architecture",
+        "image": "<img src='asset/images/galleries/img-14.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-15",
+        "title": "",
+        "tag" : "landscape",
+        "image": "<img src='asset/images/galleries/img-15.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-16",
+        "title": "",
+        "tag" : "masterplan",
+        "image": "<img src='asset/images/galleries/img-16.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-17",
+        "title": "",
+        "tag" : "interior",
+        "image": "<img src='asset/images/galleries/img-17.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-18",
+        "title": "",
+        "tag" : "architecture",
+        "image": "<img src='asset/images/galleries/img-18.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-19",
+        "title": "",
+        "tag" : "landscape",
+        "image": "<img src='asset/images/galleries/img-19.jpg' alt='img'>",
+        "body" : ""
+    },
+    {
+        "id": "img-20",
+        "title": "",
+        "tag" : "masterplan",
+        "image": "<img src='asset/images/galleries/img-20.jpg' alt='img'>",
+        "body" : ""
+    }
+]
